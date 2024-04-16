@@ -881,9 +881,10 @@ h2 {
    .header__nav {
       /* display: none; */
       flex-direction: column;
-      position: absolute;
+      position: fixed;
       right: 0;
       top: 0;
+      bottom: 0;
       min-width: 320px;
       background-color: #E43071;
       min-height: 100%;
