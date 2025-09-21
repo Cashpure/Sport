@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
          dots: true,
          slidesToShow: 1,
          infinite: true,
-         draggable: false,
+         draggable: true,
          autoplay: false,
          pauseOnHover: false,
          pauseOnFocus: false,
